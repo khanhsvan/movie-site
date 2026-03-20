@@ -1,4 +1,4 @@
-# Netflix Mini Streaming Platform
+# Mini Streaming Platform
 
 Scalable full-stack starter for a subscription-based streaming platform built with `Next.js`, `NestJS`, `PostgreSQL`, `Redis`, a private HTTP storage server, Stripe, an FFmpeg worker for HLS processing, and a DRM/legal compliance layer.
 
